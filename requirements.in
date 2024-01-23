@@ -1,0 +1,10 @@
+sounddevice
+jupyterlab
+pyaudio
+wave
+openai
+pydub
+flask
+gradio
+requests
+python-dotenv
